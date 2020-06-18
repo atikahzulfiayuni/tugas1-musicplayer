@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="layout/assets/css/main.css">
 <div align='center'>
   <div class="we">
-    <img src="layout/assets/images/login.png" alt="">
+    <img src="layout/assets/images/music.png" alt="">
   </div>
   <form class="login" action="proses_login.php" method="post">
   <h1>Login ke Atzuan Music Player </h1>

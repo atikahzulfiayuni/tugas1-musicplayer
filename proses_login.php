@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="layout/assets/css/main.css">
 <div align='center'>
   <div class="we">
-    <img src="layout/assets/images/login.png" alt="">
+    <img src="layout/assets/images/music.png" alt="">
   </div>
 
 <?php

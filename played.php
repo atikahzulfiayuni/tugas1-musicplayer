@@ -17,7 +17,7 @@
       		<th><center>HAPUS</th></center>
  		</tr>
 
- 		<?php foreach ($rows as $row) { $id = $row['played_id']; ?>
+ 		<?php foreach ($rows as $row) { $id = $row['played']; ?>
 
  			<tr>
  				<td><center><?php echo $row['artist_id']; ?></td></center>
