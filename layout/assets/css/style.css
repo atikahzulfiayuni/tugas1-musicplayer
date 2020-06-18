@@ -1,0 +1,121 @@
+body{
+	background-color: #ffb44b;
+
+}
+
+table{
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+	background-color: #fff;
+	padding: 10px;
+}
+
+table th{
+	border:1px solid #ccc;
+	background-color:#f4a639;
+	color: #fff;
+}
+
+table td {
+	border:3px solid #ccc;
+	padding: 10px;
+}
+.utama{
+	width: 1020px;
+	margin: auto;
+	border: 1px solid #ccc;
+	min-height: 550px;
+	background-color: #fff;
+}
+
+.kepala{
+	margin-bottom: 15px;
+}
+
+.menu a{
+	border: 1px solid #f4a639;
+	padding: 10px;
+	background-color: #f4a639;
+	color: #fff;
+	text-decoration: none;
+}
+
+.menu a:hover{
+	background-color: #f4a639;
+}
+
+.isi{
+	padding: 10px;
+}
+
+.btn-data {
+	border: 2px solid #f4a639;
+	text-decoration: none;
+	padding: 5px 10px;
+	border-radius: 8px;
+	color: #a186be;
+	margin-left: 10px;
+	margin-top: 10px;
+	
+}
+
+.btn-data:hover {
+	color: white;
+	background: #f4a639;
+	transition-duration: 0.3s;
+}
+
+.login table {
+    position: relative;
+    margin-left: 599px;
+    padding: 100px;
+    border-radius: 300px 5px;
+    background-color: rgb(25, 115, 233);
+}
+
+.login .tabel a {
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    font-family: montserrat;
+    font-size: 20px;
+}
+
+.login .tabel td {
+    text-decoration: none;
+    color: rgb(253, 253, 253);
+    font-family: montserrat;
+    font-size: 20px;
+}
+
+.selamat {
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+}
+
+.selamat a {
+
+    text-decoration: none;
+    color: #ff0000;
+    font-size: 18;
+}
+
+.selamat i:hover {
+
+    text-decoration: none;
+    color: rgb(44, 143, 146);
+}
+
+.selamat b {
+    margin-left: 5px;
+    margin-top: 8px;
+
+    font-size: 20px;
+}
+
+.selamat i {
+
+    font-size: 18px;
+}

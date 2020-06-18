@@ -1,0 +1,14 @@
+{
+    "name": "atikah/tugas1-musicplayer",
+    "description": "Tugas 1 Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "atikahzulfiayuni",
+            "email": "atikahzulfi369@gail.com"
+        }
+    ]
+}
